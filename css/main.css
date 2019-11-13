@@ -1,7 +1,7 @@
-@-moz-viewport { width: device-width; scale: 1;}
-@-ms-viewport { width: deivice-width; scale: 1;}
-@-o-viewport { width: device-width; scale: 1;}
-@-webkit-viewport { width: device-width; scale: 1;}
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: deivice-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
 html {
@@ -39,7 +39,7 @@ nav ul {
 }
 
 nav li {
-  text-align: none;
+  text-align: left;
 }
 
 nav a {
